@@ -9,3 +9,8 @@ In this project, we developed deep-learning frameworks that incorporated feature
 ### 3) We trained some traditional ML models and noted down the performances.
 ### 4) Next we trained some pre-trained deep learning models and noted their performances too.
 ### 5) Then we developed our frameworks taking the best 4 deep learning models as feature extractors and developing a stacked classifier with traditional ML models as base models and ensemble models as Meta-classifiers.
+
+# To run the codes
+### Upload all the codes in Kaggle and import the datasets given above.
+### Use Kaggle GPU P100 for the deep-learning and stacked classifier codes.
+### Run the codes in the numeric order of their names.
